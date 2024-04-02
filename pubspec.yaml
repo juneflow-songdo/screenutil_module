@@ -1,9 +1,9 @@
 name: screenutil_module
-description: "JuneFlow Module"
+description: "this module is a part of the juneflow project, it provides a screenutil module for flutter project."
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/screenutil_module
 
-version: 1.0.0+2
+version: 1.0.0+3
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
